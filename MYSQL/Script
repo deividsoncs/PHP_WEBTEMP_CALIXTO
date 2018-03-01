@@ -1,0 +1,7 @@
+CREATE TABLE `historico_temp` (
+  `id_historico_temp` int(11) NOT NULL AUTO_INCREMENT,
+  `sala` varchar(45) DEFAULT NULL,
+  `temperatura` int(11) DEFAULT NULL,
+  `data` datetime DEFAULT NULL,
+  PRIMARY KEY (`id_historico_temp`)
+) ENGINE=InnoDB AUTO_INCREMENT=187 DEFAULT CHARSET=latin1;
