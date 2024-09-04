@@ -1,6 +1,6 @@
 # Medidor de temperatura com arduíno, com exibição das última temperaturas em uma página PHP.
 
-<img src="[URL_da_Imagem](https://dcalixtoblog.wordpress.com/wp-content/uploads/2017/10/figurap-temp.png)" alt="tecnologia">
+<img src="./PHP/figurap-temp.png" alt="tecnologia">
 
 No artigo de do link abaixo demonstraremos como implementar uma aplicação completa de medição de temperatura, desde a coleta da temperatura, envio, persistência e exibição.
 
